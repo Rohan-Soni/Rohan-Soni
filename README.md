@@ -9,21 +9,25 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-soni" alt="rohan-soni" /></a> </p>
 
 <h3 align="left">A bit about me:</h3>
-- 🔭 I’m currently working on **completing my studies as a second year study studying a Bachelor of Computer Science (Advanced) at Adelaide University.**
-
-- 🌱 I’m currently learning **more about algorithms and data structures and neural networks.**
-
-- 📫 How to reach me: **sonirohan05@gmail.com**
+<ul>
+  <li>🔭 I’m currently working on completing my studies as a second year study studying a Bachelor of Computer Science (Advanced) at Adelaide University. </li>
+  <li>🌱 I’m currently learning more about algorithms and data structures and neural networks. </li>
+  <li>📫 How to reach me: <b> sonirohan05@gmail.com </b> </li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Projects: </h3>
-<p>C++ Project: </p>
-<p>First year university project where I created an object oriented game farming game.  </p>
-<p>Website Project: </p>
-<p>MATLAB Project: </p>
-<p>Personal Project: </p>
+<p>C++ Project: First year university project where I created an object oriented game farming game.  </p>
+<p>MATLAB Project: First year university project where I recreated blackjack with visuals where you can fight it out against the Computer. </p>
+<p>Website Project: Second year university project where I created a webpage about volunteer organisations. </p>
+<p>Personal Project: Currently working on creating a first person shooter using Unreal Engine. </p>
+<small> My projects can be viewed more in-depth on my github page! </small> 
+
+<br>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-soni&show_icons=true&locale=en" alt="rohan-soni" /></p>
 
